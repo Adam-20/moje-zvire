@@ -1,11 +1,11 @@
 # moje-zvire
-##jména členů
+## jména členů
 Adam Lucák, Jakub Jurčo
-###kdo co dělal 
+### kdo co dělal 
 Adam - vedoucí, Kubík - člen týmu
-####program
+#### program
 vypíše se oblíbené zviíře a jeho jméno 
-#####praxe
+##### praxe
 práce s gitthubem
-######konflikt
+###### konflikt
 spolupráce je klíčem k úspěchu
